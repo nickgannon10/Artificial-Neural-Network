@@ -1,3 +1,4 @@
+# Artificial-Neural-Network
 A Neural Network is comprised of 6 parts: 
 1. Data Cleaning
     a. the data must be massaged into a suitable set of arrays 
@@ -31,4 +32,4 @@ it will just take longer to find a local minima
 
 
 
-# Artificial-Neural-Network
+
